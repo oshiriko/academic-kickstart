@@ -18,7 +18,7 @@ subtitle = ""
   icon = "video"
   icon_pack = "fas"
   name = "Cinematography"
-  description = "FS5<br>A7III<br>Sony FE 24-70mm f2.8 GM<br>Sony FE 85mm F1.4 GM"
+  description = "Sony FS5<br>Sony A7III<br>Sony FE 24-70mm f2.8 GM<br>Sony FE 85mm F1.4 GM"
 
 [[feature]]
   icon = "microphone"
@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "film"
   icon_pack = "fas"
-  name = "Post-Production"
+  name = "Post Production"
   description = "Avid Media Composer<br>DaVinci Resolve<br>Premiere<br>Lighroom"
 
 +++
