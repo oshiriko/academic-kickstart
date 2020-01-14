@@ -15,17 +15,11 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
+  icon = "photo-video"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Editing"
+  description = "Avid Media Composer<br>DaVinci Reslove<br>Premiere<br>Lighroom"
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
