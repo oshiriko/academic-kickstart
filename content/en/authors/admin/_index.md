@@ -21,17 +21,17 @@ role: ScreenWriter
 bio: 
 
 interests:
-- Screen Write
+- Screenwriting
 - Documentary Film
 
-education:
-  courses:
-  - course: MA in Social Documentary Film
-    institution: School of Visual Arts
-    year: 2018
-  - course: BA in Art Education
-    institution: Shanghai Theatre Academy
-    year: 2015
+#education:
+#  courses:
+#  - course: MA in Social Documentary Film
+#    institution: School of Visual Arts
+#    year: 2018
+#  - course: BA in Art Education
+#    institution: Shanghai Theatre Academy
+#    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,6 +61,4 @@ user_groups:
 - Visitors
 ---
 
-I have been focusing on the study of film and drama since I was an undergraduate. I have both planning/editing experience and my own independent scriptwriters.
-Good at suspense, history, adventure, fantasy, campus and other types of works.
-Strong curiosity, wide interests, like innovation and adventure.
+Yicheng li
