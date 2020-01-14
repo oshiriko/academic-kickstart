@@ -18,7 +18,7 @@ subtitle = ""
   icon = "video"
   icon_pack = "fas"
   name = "Cinematography"
-  description = "Sony FS5<br>Sony A7III<br>Sony FE 24-70mm f2.8 GM<br>Sony FE 85mm F1.4 GM"
+  description = "Sony FS5<br>Sony A7III<br>Sony FE 24-70mm F2.8 GM<br>Sony FE 85mm F1.4 GM"
 
 [[feature]]
   icon = "microphone"
