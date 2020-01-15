@@ -41,13 +41,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:hello@yicheng.li".
+- icon: vimeo
+  icon_pack: fab
+  link: https://vimeo.com/yichengli
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yicheng-li-80635411b/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yicheng_iris
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCUMI6h9D0vaXj9ArfkTfw5A/featured
-
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
