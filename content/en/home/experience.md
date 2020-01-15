@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company = "Shanghai Theatre Association"
   company_url = "http://www.art238.com/renda/2012shwl/introduction/node16113/node16269/index.html"
   location = "Shanghai"
-  date_start = "2019-01-06"
+  date_start = "2020-01-06"
   date_end = ""
   description = ""
 
