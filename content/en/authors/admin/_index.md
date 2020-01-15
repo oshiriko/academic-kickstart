@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: ScreenWriter<br>Playwright<br>Documentary Director
+role: Screenwriter<br>Playwright<br>Documentary Director
 
 # Organizations/Affiliations
 #organizations:
@@ -18,11 +18,11 @@ role: ScreenWriter<br>Playwright<br>Documentary Director
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: 
 
-interests:
-- Screenwriting
-- Documentary Film
+# interests:
+# - Screenwriting
+# - Documentary Film
 
 #education:
 #  courses:
@@ -61,4 +61,6 @@ email: ""
 # - Visitors
 ---
 
-Born in Shanghai, China, Yicheng Li gets to wear many hats, from screenwriter and playwright to documentary film director. After her graduation from Shanghai Theater Academy, she became a screenwriter and playwright, Her works, including *North of the Old* and *Golden Cicada*, have won several awards in China. During the creation of these works, she encountered so many hidden heroes in daily life, which encouraged her to pursue her master degree in Social Documentary Film in SVA (New York City). She is currently working on 2 documentary films: *Fat Monk, Small Temple* and *A moment in life*.
+Born in Shanghai, China, Yicheng Li gets to wear many hats, from screenwriter and playwright to documentary film director. After her graduation from Shanghai Theater Academy, she mainly focused on the creation of film scripts and plays. Her plays *North of the Old* and *Golden Cicada* have won several awards in China. During the creation of these works, she encountered so many hidden heroes in daily life, which encouraged her to pursue her master degree in Social Documentary Film in SVA (New York City).
+
+She is currently working on 2 documentary films: *Fat Monk, Small Temple* and *A moment in life*.
