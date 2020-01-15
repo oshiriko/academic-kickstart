@@ -41,10 +41,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:hello@yicheng.li".
-- icon: vimeo
+- icon: vimeo-v
   icon_pack: fab
   link: https://vimeo.com/yichengli
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/yicheng-li-80635411b/
 - icon: twitter
