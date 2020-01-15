@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Showcase"
-  url = "#Slider"
+  url = "#slider"
   weight = 20
 
 [[main]]
