@@ -53,6 +53,15 @@ height = "800px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "A Moment in Life"
+  content = ""
+  align = "left"
+
+  overlay_color = "#1B5E20"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Sorry, I don't remember"
   content = ""
   align = "left"
