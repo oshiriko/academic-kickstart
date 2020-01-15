@@ -61,4 +61,9 @@ social:
 # - Visitors
 ---
 
-Born in Shanghai, China, Lichens has always been a dreamer. After her graduation from Shanghai Theater Academy, she devoted herself . Her plays *North of the Old* and *Golden Cicada* have won several awards in China. During the creation of these works, she encountered so many hidden heroes in daily life, which encouraged her to pursue her master degree in Social Documentary Film in SVA (New York City). She is currently working on 2 documentary films: *Fat Monk, Small Temple* and *A moment in life*. In 2018, she created a 
+Born in Shanghai, China, Licheng has always been a dreamer.
+After her graduation from Shanghai Theater Academy, she devoted herself to the creation of film scripts and plays.
+Her plays *North of the Old* and *Golden Cicada* have won several awards in China.
+During the creation of these works, she encountered so many hidden heroes in daily life, which encouraged her to pursue her master degree in Social Documentary Film in SVA (New York City).
+She is currently working on 2 documentary films: *Fat Monk, Small Temple* and *A moment in life*.
+In 2018, she created a musical theater *Sorry, I don't remember* (funded by [Shanghai Culture Square](https://www.shcstheatre.com/))will hit the market in late 2020.
