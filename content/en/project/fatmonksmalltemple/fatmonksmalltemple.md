@@ -15,13 +15,13 @@ image_preview = "img/fmst.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Computer Graphics", "Rendering"]`
-# tags = []
+tags = ["Documentary Film"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
 # [header]
-# image = "img/Scene-Test5.jpg"
+image = "img/fmst.jpg"
 
 +++
 
