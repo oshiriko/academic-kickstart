@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 date = 2020-01-19
-layout = "project"
+layout = "portfolio"
 
 # Project title.
 title = "Fat Monk, Small Temple"
