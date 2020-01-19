@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "film"
   icon_pack = "fas"
-  name = "制作"
+  name = "制片"
   # description = "Avid Media Composer<br>DaVinci Resolve<br>Premiere<br>Lightroom"
 
 +++
