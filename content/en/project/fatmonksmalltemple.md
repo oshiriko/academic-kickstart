@@ -1,4 +1,4 @@
-+++
+---
 # Date this page was created.
 date = "2020-01-19"
 
@@ -24,6 +24,6 @@ math = false
 image = "fatmonksmalltemple.jpg"
 caption = "Fat monk, Small Temple"
 
-+++
+---
 
 A story about a monk rebuilds his one-man temple.
