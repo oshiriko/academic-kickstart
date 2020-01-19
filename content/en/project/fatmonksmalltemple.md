@@ -8,10 +8,10 @@ author = "Yicheng Li"
 title = "Fat Monk, Small Temple"
 
 # Project summary to display on homepage.
-summary = "A story about a monk rebuild his one-man temple"
+summary = "A story about a monk rebuilds his one-man temple"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "fatmonksmalltemple.jpg"
+image_preview = "avatar.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -26,4 +26,4 @@ caption = "Fat monk, Small Temple"
 
 +++
 
-A story about a monk rebuild his one-man temple
+A story about a monk rebuilds his one-man temple.
