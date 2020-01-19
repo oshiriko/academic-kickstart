@@ -30,6 +30,6 @@ subtitle = ""
   icon = "film"
   icon_pack = "fas"
   name = "Producing"
-  # description = "Avid Media Composer<br>DaVinci Resolve<br>Premiere<br>Lighroom"
+  # description = "Avid Media Composer<br>DaVinci Resolve<br>Premiere<br>Lightroom"
 
 +++

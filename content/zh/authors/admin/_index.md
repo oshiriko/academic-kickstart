@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yicheng Li
+name: 李宜橙
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: ScreenWriter
+role: 编剧<br>纪录片导演
 
 # Organizations/Affiliations
 #organizations:
@@ -18,11 +18,11 @@ role: ScreenWriter
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: 
 
-interests:
-- Screenwriting
-- Documentary Film
+# interests:
+# - Screenwriting
+# - Documentary Film
 
 #education:
 #  courses:
@@ -41,10 +41,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:hello@yicheng.li".
+- icon: vimeo-v
+  icon_pack: fab
+  link: https://vimeo.com/yichengli
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yicheng-li-80635411b/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yicheng_iris
-
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCUMI6h9D0vaXj9ArfkTfw5A/featured
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,13 +61,23 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Yicheng li
+Born in Shanghai, China, Yicheng has always been a dreamer.
+
+After her graduation from Shanghai Theater Academy, she devoted herself to the creation of film scripts and plays.
+
+Her plays *North of the Old* and *Golden Cicada* have won several awards in China.
+
+During the creation of these works, she encountered so many hidden heroes in daily life, which encouraged her to pursue her master degree in Social Documentary Film in SVA (New York City).
+
+She is currently working on 2 documentary films: *Fat Monk, Small Temple* and *A moment in life*.
+
+In 2019, she created a musical theater *Sorry, I don't remember* (funded by [Shanghai Culture Square](https://www.shcstheatre.com/)), which will hit the market in late 2020.

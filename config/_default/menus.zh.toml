@@ -9,19 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "剧照"
+  url = "#slider"
   weight = 20
 
 [[main]]
   name = "项目"
   url = "#projects"
   weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
 
 [[main]]
   name = "联系我"
