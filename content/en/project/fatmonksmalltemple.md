@@ -11,7 +11,7 @@ title = "Fat Monk, Small Temple"
 summary = "A story about a monk rebuilds his one-man temple"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "avatar.jpg"
+image_preview = "fmst.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
