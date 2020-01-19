@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "荣誉"
 subtitle = ""
 
 # Date format
@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "5th Lao She Youth Drama Literature Award & Support Program"
+  organization = "第五届老舍青年戏剧文学奖励扶持计划"
   organization_url = "http://www.bjwl.org.cn/wwwroot/bjxjjxh/publish/article/index.shtml"
-  title = "Best Play Script - *Golden Cicada*"
+  title = "优秀剧本 - 《金蝉》"
   url = "http://www.bjwl.org.cn/wwwroot/bjxjjxh/publish/article/835/80404.shtml"
   certificate_url = ""
   date_start = "2020-01-09"

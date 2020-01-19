@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Experience"
+title = "经历"
 subtitle = ""
 
 # Date format for experience
@@ -19,19 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "CEO"
-  company = "Longze Culture & Media Co."
+  title = "文学策划"
+  company = "上海泷泽文化传媒有限公司"
   company_url = ""
-  location = "Shanghai"
+  location = "上海"
   date_start = "2019-11-01"
   date_end = ""
   description = ""
 
 [[experience]]
-  title = "Member"
-  company = "Shanghai Theatre Association"
+  title = "会员"
+  company = "上海戏剧协会"
   company_url = "http://www.art238.com/renda/2012shwl/introduction/node16113/node16269/index.html"
-  location = "Shanghai"
+  location = "上海"
   date_start = "2020-01-06"
   date_end = ""
   description = ""

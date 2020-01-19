@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Skills"
+title = "专业技能"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "pen-nib"
   icon_pack = "fas"
-  name = "Screenwriting"
+  name = "编剧"
   # description = "Sony FS5<br>Sony A7III<br>Sony FE 24-70mm F2.8 GM<br>Sony FE 85mm F1.4 GM"
 
 [[feature]]
   icon = "video"
   icon_pack = "fas"
-  name = "Directing"
+  name = "导演"
   # description = "Zoom H6"
 
 [[feature]]
   icon = "film"
   icon_pack = "fas"
-  name = "Producing"
+  name = "制作"
   # description = "Avid Media Composer<br>DaVinci Resolve<br>Premiere<br>Lightroom"
 
 +++
