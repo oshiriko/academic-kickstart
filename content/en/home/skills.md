@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "video"
+  icon = "pen-nib"
   icon_pack = "fas"
-  name = "Cinematography"
+  name = "Screenwriting"
   # description = "Sony FS5<br>Sony A7III<br>Sony FE 24-70mm F2.8 GM<br>Sony FE 85mm F1.4 GM"
 
 [[feature]]
-  icon = "microphone"
+  icon = "video"
   icon_pack = "fas"
-  name = "Sound Recording"
+  name = "Directing"
   # description = "Zoom H6"
 
 [[feature]]
   icon = "film"
   icon_pack = "fas"
-  name = "Post Production"
+  name = "Producing"
   # description = "Avid Media Composer<br>DaVinci Resolve<br>Premiere<br>Lighroom"
 
 +++
