@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sorry, I don't remember"
+title: "Sorry, I Don't Remember"
 summary: "A playboy's redemption"
 authors: []
 tags: [Musical Theater]
