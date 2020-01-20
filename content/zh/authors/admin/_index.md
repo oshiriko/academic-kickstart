@@ -70,14 +70,12 @@ social:
 # - Visitors
 ---
 
-Born in Shanghai, China, Yicheng has always been a dreamer.
+出生于中国上海的李宜橙一直是一个梦想家。
 
-After her graduation from Shanghai Theater Academy, she devoted herself to the creation of film scripts and plays.
+从上海戏剧学院毕业后，她致力于电影剧本和戏剧的创作。她的话剧《北上海》和《金蝉》在国内获得了多个奖项。
 
-Her plays *North of the Old* and *Golden Cicada* have won several awards in China.
+在创作这些作品的过程中，她遇到了很多隐藏在我们身边的的小人物英雄，这促使她前往纽约视觉学院（SVA）攻读社会纪录片硕士学位。
 
-During the creation of these works, she encountered so many hidden heroes in daily life, which encouraged her to pursue her master degree in Social Documentary Film in SVA (New York City).
+目前，她正在制作两部纪录片:《一山一望》《瞬》。
 
-She is currently working on 2 documentary films: *Fat Monk, Small Temple* and *A moment in life*.
-
-In 2019, she created a musical theater *Sorry, I don't remember* (funded by [Shanghai Culture Square](https://www.shcstheatre.com/)), which will hit the market in late 2020.
+她于2019年创作的音乐剧《对不起，我忘了》(由[上海文化广场](https://www.shcstheatre.com/)资助)，将于2020年底上演。
