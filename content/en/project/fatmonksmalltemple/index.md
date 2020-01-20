@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "North of the Old"
-summary: ""
+title: "Fat Monk, Small Temple"
+summary: "A story about a monk rebuilds his one-man temple"
 authors: []
-tags: []
+tags: [Documentary Film]
 categories: []
 date: 2020-01-20T12:19:56+08:00
 
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+A story about a monk rebuilds his one-man temple.
