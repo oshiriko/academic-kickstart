@@ -62,7 +62,7 @@ height = "800px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "对不起我忘了"
+  title = "对不起，我忘了"
   content = ""
   align = "left"
 
