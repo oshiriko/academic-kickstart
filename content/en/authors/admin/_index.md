@@ -18,7 +18,7 @@ role: Screenwriter<br>Playwright<br>Documentary Director
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Dreamer
+bio: A dreamer
 
 # interests:
 # - Screenwriting

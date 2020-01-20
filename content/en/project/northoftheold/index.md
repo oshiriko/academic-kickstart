@@ -4,7 +4,7 @@
 title: "North of the Old"
 summary: ""
 authors: []
-tags: []
+tags: [Play]
 categories: []
 date: 2020-01-20T12:19:56+08:00
 
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+North of the Old.
