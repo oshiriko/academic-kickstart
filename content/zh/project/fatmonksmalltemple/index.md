@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "一山一望"
-summary: "一个独自修庙的和尚的故事"
+summary: "一个独自修庙的和尚"
 authors: []
 tags: [纪录片]
 categories: []
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-A story about a monk rebuilds his one-man temple.
+胖师傅独自一人重修他的寺庙。

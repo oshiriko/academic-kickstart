@@ -33,6 +33,10 @@ subtitle = ""
      name = "Play"
      tag = "Play"
 
+   [[content.filter_button]]
+     name = "Musical Theater"
+     tag = "Musical Theater"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "北上海"
-summary: "上海解放时期，一群人为了寻找自己的身份认同感，上演的一出感人故事"
+title: "Sorry, I don't remember"
+summary: "A playboy's redemption"
 authors: []
-tags: [话剧]
+tags: [Musical Theater]
 categories: []
 date: 2020-01-20T12:19:56+08:00
 
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-1949年，上海解放。当局政府为了改善上海的治安环境，把当时会乐里一带的妓女、流氓、兵痞、难民等通通抓了起来，送到江苏的一块荒地上，进行劳动教养。那些人为了寻找到自己的身份认同感，于是把那里称作了“北上海”。
+A playboy's redemption.

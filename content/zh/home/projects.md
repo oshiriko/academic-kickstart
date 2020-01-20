@@ -33,6 +33,10 @@ subtitle = ""
      name = "话剧"
      tag = "话剧"
 
+   [[content.filter_button]]
+     name = "音乐剧"
+     tag = "音乐剧"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

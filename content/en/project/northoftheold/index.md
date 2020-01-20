@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "North of the Old"
-summary: ""
+summary: "A story happened in 'North Shanghai', a wasteland for reeducation through labor"
 authors: []
 tags: [Play]
 categories: []
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-North of the Old.
+In 1949, Shanghai was liberated. In order to improve the public security environment in Shanghai, the authorities arrested prostitutes, hooligans, soldiers of fortune and refugees in the area of huileli and sent them to a wasteland in jiangsu province for reeducation through labor. They call it "North Shanghai" in order to find their own identity.
