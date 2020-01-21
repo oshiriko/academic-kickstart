@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 140  # Order that this section will appear.
 
 title = ""
@@ -39,7 +39,7 @@ hero_media = ""
 [cta]
   url = "gallery"
   label = "无内鬼，来点猫猫图片"
-  align = "right"
+  alignment = "right"
   # icon_pack = "fas"
   # icon = "download"
   

@@ -80,4 +80,4 @@ During the creation of these works, she encountered so many hidden heroes in dai
 
 She is currently working on 2 documentary films: *Fat Monk, Small Temple* and *A moment in life*.
 
-In 2019, she created a musical theater *Sorry, I don't remember* (funded by [Shanghai Culture Square](https://www.shcstheatre.com/)), which will hit the market in late 2020.
+In 2019, she created a musical theater *Sorry, I don't remember*, which will hit the market in late 2020.

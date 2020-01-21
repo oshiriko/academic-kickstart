@@ -19,13 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "5th Lao She Youth Drama Literature Award & Support Program"
+  organization = "Beijing Theatre Association"
   organization_url = "http://www.bjwl.org.cn/wwwroot/bjxjjxh/publish/article/index.shtml"
-  title = "Best Play Script - *Golden Cicada*"
+  title = """
+  5th Lao She Youth Drama Literature Award & Support Program<br>
+  Best Play Script - *Golden Cicada*
+  """
   url = "http://www.bjwl.org.cn/wwwroot/bjxjjxh/publish/article/835/80404.shtml"
   certificate_url = ""
   date_start = "2020-01-09"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "SAIC · Shanghai Culture Square"
+  organization_url = "https://www.shcstheatre.com/"
+  title = """
+  2019 Chinese Original Musical Incubation Program<br>
+  Best New Musical - *Sorry, I don't remember*
+  """
+  url = ""
+  certificate_url = ""
+  date_start = "2019-12-07"
+  date_end = ""
+  description = ""
 +++

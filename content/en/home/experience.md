@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Associate Screenwriter "
   company = "Longze Culture & Media Co."
-  company_url = ""
+  company_url = "#about"
   location = "Shanghai"
   date_start = "2019-11-01"
   date_end = ""

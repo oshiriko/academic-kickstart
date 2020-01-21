@@ -19,12 +19,28 @@ date_format = "2006年1月"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "第五届老舍青年戏剧文学奖励扶持计划"
+  organization = "北京戏剧家协会"
   organization_url = "http://www.bjwl.org.cn/wwwroot/bjxjjxh/publish/article/index.shtml"
-  title = "优秀剧本 - 《金蝉》"
+  title = """
+  第五届老舍青年戏剧文学奖励扶持计划<br>
+  优秀剧本 《金蝉》
+  """
   url = "http://www.bjwl.org.cn/wwwroot/bjxjjxh/publish/article/835/80404.shtml"
   certificate_url = ""
   date_start = "2020-01-09"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "上汽 · 上海文化广场"
+  organization_url = "https://www.shcstheatre.com/"
+  title = """
+  2019华语原创音乐剧孵化计划<br>
+  初试啼声奖 《对不起，我忘了》
+  """
+  url = ""
+  certificate_url = ""
+  date_start = "2019-12-07"
   date_end = ""
   description = ""
 

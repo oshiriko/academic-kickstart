@@ -4,7 +4,7 @@
 title: "对不起，我忘了"
 summary: "渣男下地狱的故事"
 authors: [音乐剧]
-tags: [Musical Theater]
+tags: [音乐剧]
 categories: []
 date: 2020-01-20T12:19:56+08:00
 

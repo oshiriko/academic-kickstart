@@ -21,7 +21,7 @@ date_format = "2006年1月"
 [[experience]]
   title = "文学策划"
   company = "上海泷泽文化传媒有限公司"
-  company_url = ""
+  company_url = "#about"
   location = "上海"
   date_start = "2019-11-01"
   date_end = ""
@@ -29,7 +29,7 @@ date_format = "2006年1月"
 
 [[experience]]
   title = "会员"
-  company = "上海戏剧协会"
+  company = "上海戏剧家协会"
   company_url = "http://www.art238.com/renda/2012shwl/introduction/node16113/node16269/index.html"
   location = "上海"
   date_start = "2020-01-06"
