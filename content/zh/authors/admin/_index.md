@@ -40,7 +40,7 @@ bio: A dreamer
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:hello@yicheng.li".
+  link: 'mailto:hello@yicheng.li'  # For a direct email link, use "mailto:hello@yicheng.li".
 - icon: vimeo-v
   icon_pack: fab
   link: https://vimeo.com/yichengli
