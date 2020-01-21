@@ -3,7 +3,7 @@
 
 title: "北上海"
 summary: "上海解放时期，一群人为了寻找自己的身份认同感，上演的一出感人故事"
-authors: []
+authors: [admin]
 tags: [话剧]
 categories: []
 date: 2020-01-20T12:19:56+08:00

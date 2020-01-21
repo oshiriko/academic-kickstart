@@ -3,7 +3,7 @@
 
 title: "North of the Old"
 summary: "A story happened in 'North Shanghai', a wasteland for reeducation through labor"
-authors: []
+authors: [admin]
 tags: [Play]
 categories: []
 date: 2020-01-20T12:19:56+08:00

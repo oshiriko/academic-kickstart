@@ -3,7 +3,7 @@
 
 title: "Fat Monk, Small Temple"
 summary: "A story about a monk rebuilds his one-man temple"
-authors: []
+authors: [admin]
 tags: [Documentary Film]
 categories: []
 date: 2020-01-20T12:19:56+08:00

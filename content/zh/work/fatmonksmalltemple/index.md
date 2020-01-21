@@ -3,7 +3,7 @@
 
 title: "一山一望"
 summary: "一个独自修庙的和尚"
-authors: []
+authors: [admin]
 tags: [纪录片]
 categories: []
 date: 2020-01-20T12:19:56+08:00

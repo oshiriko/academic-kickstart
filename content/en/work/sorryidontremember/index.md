@@ -3,7 +3,7 @@
 
 title: "Sorry, I Don't Remember"
 summary: "A playboy's redemption"
-authors: []
+authors: [admin]
 tags: [Musical Theater]
 categories: []
 date: 2020-01-20T12:19:56+08:00
