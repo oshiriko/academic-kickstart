@@ -19,7 +19,7 @@ date_format = "2006年1月"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "文学策划"
+  title = "CEO"
   company = "上海泷泽文化传媒有限公司"
   company_url = "#about"
   location = "上海"
