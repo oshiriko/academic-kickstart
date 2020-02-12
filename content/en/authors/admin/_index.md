@@ -74,7 +74,7 @@ Born in Shanghai, China, Yicheng has always been a dreamer.
 
 After her graduation from Shanghai Theater Academy, she devoted herself to the creation of film scripts and plays. Her plays, *North of the Old* and *Golden Cicada*, have won several awards in China.
 
-During the creation of these works, she encountered so many hidden heroes in daily life, which encouraged her to pursue her master degree in Social Documentary Film in School of Visual Art (SVA), New York City.
+During the creation of these works, she encountered so many hidden heroes in daily life, which encouraged her to pursue her master degree in Social Documentary Film in School of Visual Arts (SVA), New York City.
 
 She is currently working on two documentary films: *Fat Monk, Small Temple* and *A moment in life*.
 
