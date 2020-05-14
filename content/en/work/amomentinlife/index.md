@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Fat Monk, Small Temple"
-summary: "A story about a monk rebuilds his one-man temple"
+title: "A Moment in Life"
+summary: "One man swept thousands of mines on the border of China and Vietnam"
 authors: [admin]
 tags: [Documentary Film]
 categories: []
