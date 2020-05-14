@@ -40,10 +40,8 @@ url_video: ""
 slides: ""
 ---
 
-2018, 60 minutes
+2020, 90 minutes
 
-Five seasons in a shabby temple.
 
-In China, a Buddhist monk represents the principles of self-control, and his life is dedicated to Buddism, with the ultimate goal of alleviating suffering in his people. Shi-Zhaoneng has been a monk for 17 years and lives alone in an ancient mountain temple constantly on the verge of collapse. From the first day Zhaoneng came to the temple, he has worked to rebuild it. However, in this, he has found the most significant thing is not remodeling the physical temple but rebuilding his community by helping the people understand again what the monk does, what the Buddha is, and what belief actually is.
 
 {{< figure src="poster.jpg" title="" lightbox="true" >}}
