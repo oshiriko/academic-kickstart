@@ -44,4 +44,4 @@ slides: ""
 
 
 
-{{< figure src="poster.jpg" title="" lightbox="true" >}}
+{{< figure src="poster.png" title="" lightbox="true" >}}
