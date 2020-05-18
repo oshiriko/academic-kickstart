@@ -86,7 +86,7 @@ phone = "+86 15821260278"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "灵石路666弄", city = "静安区", region = "上海市", postcode = "200072", country = "中国", country_code = "CN"}
+address = {street = "万荣路1199弄", city = "静安区", region = "上海市", postcode = "200436", country = "中国", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
