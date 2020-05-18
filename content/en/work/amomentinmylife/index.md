@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Moment in Life"
+title: "A Moment in My Life"
 summary: "One man swept thousands of mines on the border of China and Vietnam"
 authors: [admin]
 tags: [Documentary Film]
