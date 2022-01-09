@@ -40,3 +40,8 @@ url_video: ""
 slides: ""
 ---
 A dance theater about The Dream of Red Mansion.
+
+ [[main]]
+  name = "Showcase"
+  url = "#slider"
+  weight = 20
