@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Dream of Red Mansion"
+title: "A Dream of Red Mansions"
 summary: "A dance theater about one of China's Four Great Classic Novels"
 authors: [admin]
 tags: [Dance Theater]
@@ -39,6 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-A dance theater about The Dream of Red Mansion.
+A dance theater about one of China's Four Great Classic Novels - A Dream of Red Mansions.
 
 {{< gallery album="albums" >}}

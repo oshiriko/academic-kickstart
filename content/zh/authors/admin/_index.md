@@ -53,7 +53,10 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCUMI6h9D0vaXj9ArfkTfw5A/featured
-  
+- icon: weibo
+  icon_pack: fab
+  link: https://weibo.com/1154825503/profile?topnav=1&wvr=6&is_all=1
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -76,6 +79,8 @@ social:
 
 在创作这些作品的过程中，她遇到了很多隐藏在我们身边的的小人物英雄，这促使她前往纽约视觉学院（School of Visual Arts）攻读社会纪录片硕士学位。
 
-目前，她正在制作两部纪录片:《一山一望》、《瞬》。
+她正在制作两部纪录片为:《一山一望》、《瞬》。
 
-她于2019年创作的音乐剧《对不起，我忘了》将在2020年底上演。
+2021年9月，她作为编剧的舞剧《红楼梦》在江苏大剧院首演，随后在深圳、北京、上海、南通四城完成巡演。
+
+她于2019年创作的音乐剧《对不起，我忘了》在2021年11月成功上演。

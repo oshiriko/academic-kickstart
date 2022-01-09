@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Golden Cicada"
-summary: "The ghosts of two soldiers ask a romance writer to write a novel about their fights against the invaders"
+title: "舞剧《红楼梦》"
+summary: "江苏大剧院原创民族舞剧《红楼梦》"
 authors: [admin]
-tags: [Play]
+tags: [舞剧]
 categories: []
 date: 2020-01-20T12:19:56+08:00
 
@@ -39,4 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The ghosts of two soldiers ask a romance writer to write a novel about their fights against the invaders.
+江苏大剧院原创民族舞剧《红楼梦》。
+
+{{< gallery album="albums" >}}

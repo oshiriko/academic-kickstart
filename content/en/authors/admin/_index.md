@@ -53,6 +53,9 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCUMI6h9D0vaXj9ArfkTfw5A/featured
+- icon: weibo
+  icon_pack: fab
+  link: https://weibo.com/1154825503/profile?topnav=1&wvr=6&is_all=1
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -78,4 +81,6 @@ During the creation of these works, she encountered so many hidden heroes in dai
 
 She is currently working on two documentary films: *Fat Monk, Small Temple* and *A moment in life*.
 
-In 2019, she created a musical theater *Sorry, I don't remember*, which will hit the market in late 2020.
+In Sep 2021, her dance theater *A dream of Red Mansions* successfully made its debut, then went on tour in 4 cities: Shenzhen, Beijing, Shanghai and Nantong.
+
+In Nov 2021, her musical theater *Sorry, I don't remember* hit the market.
