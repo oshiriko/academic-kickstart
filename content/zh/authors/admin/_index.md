@@ -18,7 +18,7 @@ role: 编剧<br>纪录片导演
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A dreamer
+bio: A Dreamer
 
 # interests:
 # - Screenwriting

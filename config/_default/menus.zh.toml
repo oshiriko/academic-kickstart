@@ -8,11 +8,6 @@
   url = "#about"
   weight = 10
 
-# [[main]]
-#   name = "剧照"
-#   url = "#slider"
-#   weight = 20
-
 [[main]]
   name = "作品"
   url = "#projects"
