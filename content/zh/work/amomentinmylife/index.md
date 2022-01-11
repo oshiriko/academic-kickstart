@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "瞬"
-summary: "One man swept thousands of mines on the border of China and Vietnam"
+summary: "独自一人在中越边境线上排雷"
 authors: [admin]
 tags: [纪录片]
 categories: []

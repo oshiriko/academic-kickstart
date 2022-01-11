@@ -19,6 +19,19 @@ date_format = "2006年1月"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "中华人民共和国文化和旅游部"
+  organization_url = "https://www.mct.gov.cn/whzx/qgwhxxlb/xz/202007/t20200721_873634.htm"
+  title = """
+  入选2020年全国舞台艺术重点打造剧目<br>
+  《铸魂达玛拉》
+  """
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-16"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "北京戏剧家协会"
   organization_url = "http://www.bjwl.org.cn/wwwroot/bjxjjxh/publish/article/index.shtml"
   title = """

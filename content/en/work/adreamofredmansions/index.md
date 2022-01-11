@@ -6,7 +6,7 @@ summary: "A dance theater about one of China's Four Great Classic Novels"
 authors: [admin]
 tags: [Dance Theater]
 categories: []
-date: 2020-01-20T12:19:56+08:00
+date: 2021-09-23T12:19:56+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
