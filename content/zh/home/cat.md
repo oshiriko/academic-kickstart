@@ -8,6 +8,6 @@ title = ""
 [cta]
   url = "gallery"
   label = "无内鬼，来点猫猫图片"
-  alignment = "right"
+  alignment = "center"
 
 +++
